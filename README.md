@@ -38,3 +38,4 @@ The optimizer used is LBFGS, a popular optimizer for image generation tasks.
 
 
 **OUTPUT**:
+![Screenshot (8)](https://github.com/user-attachments/assets/f3965e46-f12c-46c3-ac87-f44e806e13cf)
